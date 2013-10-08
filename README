@@ -1,0 +1,5 @@
+The program is designed that can read, modify and write to a FASTA FLAT  file.  It is cabable of 
+
+1.  Reporting  the number of occurence  pairs in the file.
+2.  Delete a line of data from the file.
+3.  Insert a complete line of data  at a specified line number.
